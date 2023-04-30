@@ -1,3 +1,4 @@
+# Descrição do Desafio 
 Desenvolva um site para uma empresa, com todas informações da empresa. A página deve possuir, no mínimo, os seguintes requisitos (ou reutilize uma já desenvolvida que possua no mínimo 4 páginas html):
 - Página inicial: crie uma página inicial que apresente uma breve introdução ao site e tenha um menu de navegação com links para outras páginas do site.
 - Página "Sobre": crie uma página "Sobre" que inclua informações sobre o criador do site e sua finalidade.
@@ -13,3 +14,6 @@ Além disso, faça aplicação de estilos em elementos utilizando ID. Utilize di
 Busque uma interface agradável aos olhos do usuário.
 
 Na elaboração das páginas, utilize as tags que possuem ênfase na melhora do SEO do site proposto.
+
+# Design
+<img src="assets/images/design.png" >
