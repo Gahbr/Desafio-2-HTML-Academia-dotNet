@@ -237,6 +237,26 @@ section{
   font-size: x-large;
 }
 
+.img{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.galery-image{
+  width: 100%;
+  height: 100%;
+  object-fit: fill;
+}
+
+.grid{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  border: 4px solid black;
+    margin: 0 50px;
+}
+
 /*Rodapé*/
 .footer{
   display: flex;
