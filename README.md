@@ -17,3 +17,8 @@ Na elaboração das páginas, utilize as tags que possuem ênfase na melhora do 
 
 # Design
 <img src="assets/images/design.png" >
+
+# Performance
+ ### Teste de performance feito com o uso do Google Lighthouse, que é uma ferramenta automatizada de código aberto para medir a qualidade das páginas da web.
+![performance](https://user-images.githubusercontent.com/80289718/235484638-ed75d06a-e3d9-4c4c-84d8-25e240daf395.png)
+
